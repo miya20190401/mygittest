@@ -1,1 +1,1 @@
-console.log("hoge");
+console.error("hoge");
