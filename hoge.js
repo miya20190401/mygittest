@@ -1,1 +1,1 @@
-console.error("hoge");
+console.warn("hoge");
